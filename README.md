@@ -37,4 +37,5 @@ Tools: Python, pandas, matplotlib, lifelines, Google Colab
 ## Files
 
 - `TP53_mutation_analysis.ipynb`: full notebook with code and notes
+- `TP53_survival_analysis.ipynb`: survival comparison of TP53-mutant and wild-type patients
 - `tp53_mutation_types.png`, `tp53_survival.png`: figures
